@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "pework-study-guide",
+			"path": "../../pework-study-guide"
+		},
+		{
+			"name": "prework-study-guide",
+			"path": "."
+		},
+		{
+			"name": "prework-study-guide 2",
+			"path": "../prework-study-guide 2"
+		}
+	],
+	"settings": {}
+}
